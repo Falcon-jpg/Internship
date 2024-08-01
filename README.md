@@ -51,19 +51,19 @@ This project is a comprehensive logistics management application developed durin
 
 ### Android App
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/b0005cda-8150-4d07-9843-39e6c87889df" width="300" height="450"/>
-  <img src="https://github.com/user-attachments/assets/0e4e2259-88e6-42c0-8934-f2c51a15b82b" width="300" height="450"/> 
-  <img src="https://github.com/user-attachments/assets/a61a8701-2d79-4c83-85a3-e442d8176945" width="300" height="450"/>
+  <img src="https://github.com/user-attachments/assets/b0005cda-8150-4d07-9843-39e6c87889df" width="250" height="450"/>
+  <img src="https://github.com/user-attachments/assets/0e4e2259-88e6-42c0-8934-f2c51a15b82b" width="250" height="450"/> 
+  <img src="https://github.com/user-attachments/assets/a61a8701-2d79-4c83-85a3-e442d8176945" width="250" height="450"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/83aac114-08ca-4563-8881-966f9992d6c8" width="300" height="450"/>
-  <img src="https://github.com/user-attachments/assets/42410c08-c2aa-48ea-8dc9-dc0012e4dc3b" width="300" height="450"/>
-  <img src="https://github.com/user-attachments/assets/5d10953f-7e78-46f6-b5ac-5367a01d2ca6" width="300" height="450"/>
+  <img src="https://github.com/user-attachments/assets/83aac114-08ca-4563-8881-966f9992d6c8" width="250" height="450"/>
+  <img src="https://github.com/user-attachments/assets/42410c08-c2aa-48ea-8dc9-dc0012e4dc3b" width="250" height="450"/>
+  <img src="https://github.com/user-attachments/assets/5d10953f-7e78-46f6-b5ac-5367a01d2ca6" width="250" height="450"/>
 </div>
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/34619661-5650-4c01-b6f9-897f53a86044" width="300" height="450"/>
-  <img src="https://github.com/user-attachments/assets/9eb02a1d-6c08-4652-9933-f81076e93ca8" width="300" height="450"/>
-  <img src="https://github.com/user-attachments/assets/1ed1d89a-e1f4-4c16-8d54-2787ef788e6f" width="300" height="450"/>
+  <img src="https://github.com/user-attachments/assets/34619661-5650-4c01-b6f9-897f53a86044" width="250" height="450"/>
+  <img src="https://github.com/user-attachments/assets/9eb02a1d-6c08-4652-9933-f81076e93ca8" width="250" height="450"/>
+  <img src="https://github.com/user-attachments/assets/1ed1d89a-e1f4-4c16-8d54-2787ef788e6f" width="250" height="450"/>
 </div>
 
 
