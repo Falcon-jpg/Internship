@@ -87,7 +87,7 @@ This project is a comprehensive logistics management application developed durin
     </div>
     <div style="text-align: center;">
       <p>Warehouses</p>
-      <img src="https://github.com/user-attachments/assets/373f8208-f7d6-4752-93d8-1b5e80c0227a" height="200" />
+      <img src="https://github.com/user-attachments/assets/373f8208-f7d6-4752-93d8-1b5e80c0227a" width = "400" height="200" />
     </div>
   </div>
 </div>
