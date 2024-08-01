@@ -51,7 +51,7 @@ This project is a comprehensive logistics management application developed durin
 
 ### Android App
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/b0005cda-8150-4d07-9843-39e6c87889df)"/>
+  <img src="https://github.com/user-attachments/assets/b0005cda-8150-4d07-9843-39e6c87889df"/>
   <img src=![IMG-20240801-WA0015](https://github.com/user-attachments/assets/0e4e2259-88e6-42c0-8934-f2c51a15b82b)/> 
   <img src= ![IMG-20240801-WA0008](https://github.com/user-attachments/assets/a61a8701-2d79-4c83-85a3-e442d8176945)/>
 </p>
