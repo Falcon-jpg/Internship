@@ -69,12 +69,12 @@ This project is a comprehensive logistics management application developed durin
 ## Database Tables (MySQL)
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/5ff17cad-020e-433d-b8ae-d1554211b807" width="49%" alt="Database Table 1" />
-   <img src="https://github.com/user-attachments/assets/ffa2143c-2dd0-484b-be38-c5267ae2417d" width="49%" alt="Database Table 2" />
+  <img src="https://github.com/user-attachments/assets/7b2e0aba-25f6-4e5a-b140-412314f76c1a" />
+   <img src="https://github.com/user-attachments/assets/945f3e33-6a5a-4312-852b-5294b80c6180" />
 </p>
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/1d9daaee-7887-4642-91fc-41182d269a62" width="49%" alt="Database Table 3" />
-  <img src="https://github.com/user-attachments/assets/77ea259f-2100-410f-9df4-64924c653959" width="49%" alt="Database Table 4" />
+  <img src="https://github.com/user-attachments/assets/5b0c53b2-7097-4e88-93d9-d3e1a23d8413" />
+  <img src="https://github.com/user-attachments/assets/373f8208-f7d6-4752-93d8-1b5e80c0227a" />
 </p>
 
 ## Acknowledgements
