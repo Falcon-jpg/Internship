@@ -52,18 +52,18 @@ This project is a comprehensive logistics management application developed durin
 ### Android App
 <p float="left">
   <img src="https://github.com/user-attachments/assets/b0005cda-8150-4d07-9843-39e6c87889df"/>
-  <img src=![IMG-20240801-WA0015](https://github.com/user-attachments/assets/0e4e2259-88e6-42c0-8934-f2c51a15b82b)/> 
-  <img src= ![IMG-20240801-WA0008](https://github.com/user-attachments/assets/a61a8701-2d79-4c83-85a3-e442d8176945)/>
+  <img src="https://github.com/user-attachments/assets/0e4e2259-88e6-42c0-8934-f2c51a15b82b"/> 
+  <img src="https://github.com/user-attachments/assets/a61a8701-2d79-4c83-85a3-e442d8176945"/>
 </p>
 <p float="left">
-  <img src=![IMG-20240801-WA0011](https://github.com/user-attachments/assets/83aac114-08ca-4563-8881-966f9992d6c8)/>
-  <img src=![IMG-20240801-WA0010](https://github.com/user-attachments/assets/42410c08-c2aa-48ea-8dc9-dc0012e4dc3b)/>
-  <img src= ![IMG-20240801-WA0012](https://github.com/user-attachments/assets/5d10953f-7e78-46f6-b5ac-5367a01d2ca6)/>
+  <img src="https://github.com/user-attachments/assets/83aac114-08ca-4563-8881-966f9992d6c8"/>
+  <img src="https://github.com/user-attachments/assets/42410c08-c2aa-48ea-8dc9-dc0012e4dc3b"/>
+  <img src= "https://github.com/user-attachments/assets/5d10953f-7e78-46f6-b5ac-5367a01d2ca6"/>
 </p>
 <p float="left">
-  <img src= ![IMG-20240801-WA0013](https://github.com/user-attachments/assets/34619661-5650-4c01-b6f9-897f53a86044)/>
-  <img src= ![IMG-20240801-WA0016](https://github.com/user-attachments/assets/9eb02a1d-6c08-4652-9933-f81076e93ca8)/>
-  <img src= ![IMG-20240801-WA0009](https://github.com/user-attachments/assets/1ed1d89a-e1f4-4c16-8d54-2787ef788e6f)/>
+  <img src= "https://github.com/user-attachments/assets/34619661-5650-4c01-b6f9-897f53a86044"/>
+  <img src= "https://github.com/user-attachments/assets/9eb02a1d-6c08-4652-9933-f81076e93ca8"/>
+  <img src= "https://github.com/user-attachments/assets/1ed1d89a-e1f4-4c16-8d54-2787ef788e6f"/>
 </p>
 
 ## Database Tables (MySQL)
