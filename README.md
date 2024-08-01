@@ -73,21 +73,21 @@ This project is a comprehensive logistics management application developed durin
   <div style="margin-bottom: 10px;">
     <div style="text-align: center;">
       <p>Shipments</p>
-      <img src="https://github.com/user-attachments/assets/7b2e0aba-25f6-4e5a-b140-412314f76c1a" width="200" height="200" />
+      <img src="https://github.com/user-attachments/assets/7b2e0aba-25f6-4e5a-b140-412314f76c1a" height="200" />
     </div>
     <div style="text-align: center;">
       <p>Challan</p>
-      <img src="https://github.com/user-attachments/assets/945f3e33-6a5a-4312-852b-5294b80c6180" width="200" height="200" />
+      <img src="https://github.com/user-attachments/assets/945f3e33-6a5a-4312-852b-5294b80c6180" height="200" />
     </div>
   </div>
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <div style="text-align: center; margin-right: 10px;">
       <p>Users</p>
-      <img src="https://github.com/user-attachments/assets/5b0c53b2-7097-4e88-93d9-d3e1a23d8413" width="200" height="200" />
+      <img src="https://github.com/user-attachments/assets/5b0c53b2-7097-4e88-93d9-d3e1a23d8413" height="200" />
     </div>
     <div style="text-align: center;">
       <p>Warehouses</p>
-      <img src="https://github.com/user-attachments/assets/373f8208-f7d6-4752-93d8-1b5e80c0227a" width="200" height="200" />
+      <img src="https://github.com/user-attachments/assets/373f8208-f7d6-4752-93d8-1b5e80c0227a" height="200" />
     </div>
   </div>
 </div>
